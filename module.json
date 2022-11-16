@@ -164,5 +164,5 @@
     "compatibleCoreVersion": "9",
     "protected" : false,
     "url": "https://foundryvtt.com/packages/wfrp4e-core/",
-    "manifest": ""
+    "manifest": "https://github.com/greatasmo/whfrp/blob/main/manifest.json"
 }
